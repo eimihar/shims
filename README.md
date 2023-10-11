@@ -11,3 +11,5 @@ declare module '*.vue' {
     export default component
 }
 ```
+credit to 
+https://stackoverflow.com/questions/54622621/what-does-the-shims-tsx-d-ts-file-do-in-a-vue-typescript-project/59788563#59788563
