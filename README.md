@@ -1,7 +1,7 @@
 # shims
 i've no idea how it works but it works
 
-/src/shims-vue.d.ts
+```/src/shims-vue.d.ts```
 due to unresolved jetbrain vue support for typescript 5
 https://youtrack.jetbrains.com/issue/WEB-60063/Introduce-Volar-support-for-Vue-to-fix-a-problem-with-Typescript-5.0-in-Vue-SFC#focus=Comments-27-7057634.0-0
 ```
